@@ -1,0 +1,4 @@
+gogoși
+făină
+drojdie
+zahăr
