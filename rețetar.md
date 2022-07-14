@@ -10,6 +10,7 @@ Aceasta este lista de rețete pe care o cunoaștem
 ## Dejun
 
 [Sarmale](./re%C8%9Bete/sarmale.md)
+[paste](./re%C8%9Bete/paste-carbonara.md)
 
 ## Desert
 
