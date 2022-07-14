@@ -1,0 +1,5 @@
+Clătite
+
+Lapte
+Ouă
+Făină
