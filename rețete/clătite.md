@@ -1,5 +1,5 @@
 Clătite
 
-Lapte
-Ouă
-Făină
+- Lapte
+- Ouă
+- Făină
