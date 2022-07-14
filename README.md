@@ -1,3 +1,7 @@
 # joi-rețetar-2022
 
-un demo de lucru cu branch-uri
+Un demo de lucru cu branch-uri
+
+## Descriere
+
+Va conține rețete.
