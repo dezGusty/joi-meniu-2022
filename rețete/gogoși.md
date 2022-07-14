@@ -1,4 +1,5 @@
-gogoși
-făină
-drojdie
-zahăr
+# Gogoși
+
+- făină
+- drojdie
+- zahăr
