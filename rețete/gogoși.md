@@ -1,4 +1,4 @@
-gogoși
+# Gogoși
 
 - făină
 - drojdie
